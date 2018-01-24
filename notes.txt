@@ -1,1 +1,11 @@
-pallvi
+git init
+git status
+ls
+git add.
+git status
+git commit -m "initial commit"
+
+git remote add origin https://github.com/pallvi30/python.git (copy path)
+
+git remote -v
+git push origin master
