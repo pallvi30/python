@@ -9,3 +9,39 @@ git remote add origin https://github.com/pallvi30/python.git (copy path)
 
 git remote -v
 git push origin master
+
+
+
+
+
+---------------------------------------------------------------------------
+
+git status
+git diff
+git diff file name
+diff -git filename secondname
+git add filename
+nano filename
+ctrl x
+ctrt 0
+ctrl u
+ctrl k
+
+git checkout -- filename
+git reset Head filename
+
+gut checkout hashcode filename
+
+git checkout -- directoryname
+git diff branch..branch2
+git branch
+git checkout branchname
+git checkout -b branchname
+git commit
+git commit -m "message"
+git log
+git log path
+git show hashcode
+git show 
+git dhow HEAd
+git annotate filename
