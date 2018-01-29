@@ -1,0 +1,17 @@
+ calculator 
+push calculator on git hub
+
+24/1/2018
+what is the operator precedence in python.
+
+2. strings tutorial
+
+25/1/2018
+
+what is the difference between indexing and slicing
+
+25/1/2018(home work)
+
+https://analytics.google.com/analytics/academy/
+for course:-
+https://summerofcode.withgoogle.com/
